@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://zaachieli.writescript.org/sitemap.xml
